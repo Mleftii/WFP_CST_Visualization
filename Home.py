@@ -23,7 +23,7 @@ st.markdown("""
         text-align: center;
         color: white;
         margin-bottom: 20px;'>
-        🎯 Welcome to the Dashboard
+        Welcome to the Dashboard
     </div>
 """, unsafe_allow_html=True)
 
